@@ -1,0 +1,1 @@
+{"crons":[{"path":"/api/cron","schedule":"0 3 * * *"}],"headers":[{"source":"/sw.js","headers":[{"key":"Service-Worker-Allowed","value":"/"},{"key":"Cache-Control","value":"no-cache"}]}]}
