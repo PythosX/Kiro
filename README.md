@@ -2,6 +2,8 @@
 
 ### Your day, understood.
 
+- see V1 Features [KIRO V1 Documentation](V1_README.md) 
+
 KIRO is a personal AI productivity assistant designed to help you manage tasks, organize your day, and stay ahead of important deadlines through natural voice and chat interaction.
 
 Instead of manually creating every task, simply tell KIRO what you need to do. It understands your request, organizes the details, and helps you remember what matters.
